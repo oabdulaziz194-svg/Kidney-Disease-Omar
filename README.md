@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kidney-Disease-Classification-MLflow-DVC
 
 
@@ -181,3 +182,8 @@ DVC
     ECR_REPOSITORY_NAME = simple-app
 
 
+=======
+# Kidney-Disease-Omar
+Project about Kidney-Disease
+>>>>>>> 5109768116ac4346589753d12959c4ee9b6d9348
+# abdulalhakem-omar
